@@ -1,0 +1,8 @@
+opencv-python
+numpy
+streamlit
+tensorflow
+keras
+scipy
+imutils
+dlib
