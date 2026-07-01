@@ -33,3 +33,4 @@ The system detects whether a person inside a vehicle is Awake or Sleeping in rea
 * Alarm sound integration
 * Mobile application deployment
 * Higher accuracy CNN model
+  
